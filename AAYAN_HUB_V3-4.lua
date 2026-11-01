@@ -2509,7 +2509,7 @@ if channel then
     end)
 		end		
 		
-loadstring(game:HttpGet("https://pastebin.com/raw/TstyMhsU"))()end)
+loadstring(game:HttpGet("https://pastebin.com/raw/DGG9MHx7"))()end)
 
 btn("CUSTOM SPAM 3 😈🌚",P5,function()
 		
